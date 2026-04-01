@@ -5,6 +5,7 @@
 
 **Git Hub**
 
+** git commit -m "commiteando los commits para decir que modificamos con un commit"
 
 
 
